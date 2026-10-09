@@ -40,7 +40,7 @@
     
     [Link to tweet](https://twitter.com/vxunderground/status/1587304651426332673)
     
-- **Πώς ένα δισκέτα floppy κατέστρωσε τον δολοφόνο BTK**
+- **Πώς μία δισκέτα floppy αποκάλυψε τον δολοφόνο BTK**
     
     [Link to article](https://www.refinery29.com/en-us/2019/08/240899/btk-killer-caught-when-how-floppy-disk-dennis-rader)
     
