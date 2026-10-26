@@ -58,7 +58,7 @@ Computer
 
 > **Γιατί μετράει στην πράξη:** Το `NTUSER.DAT` είναι ιδιαίτερα σημαντικό επειδή ανήκει σε **συγκεκριμένο χρήστη**. Ενώ τα κλειδιά του HKLM αφορούν όλο το σύστημα, το `NTUSER.DAT` μας λέει τι έκανε ή τι ρύθμισε ένας συγκεκριμένος χρήστης — π.χ. ποια εφαρμογά άνοιξε τελευταία, ποια συντομεύση δημιούργησε, αν πρόσθεσε εκκίνηση αυτόματης εκκίνησης για κάποιο πρόγραμμα.
 
-Το εργαλείο μπορεί να κατεβαστεί από [https://f001.backblazeb2.com/file/EricZimmermanTools/net6/RegistryExplorer.zip](https://f001.backblazeb2.com/file/EricZimmermanTools/net6/RegistryExplorer.zip).
+Το εργαλείο μπορεί να κατεβαστεί από [[[https://f001.backblazeb2.com/file/EricZimmermanTools/net6/RegistryExplorer.zip](https://www.sans.org/tools/registry-explorer)]([https://f001.backblazeb2.com/file/EricZimmermanTools/net6/RegistryExplorer.zip](https://www.sans.org/tools/registry-explorer)).](https://ericzimmerman.github.io/#forensic-tools)
 
 > **Συμβουλή:** Το Registry Explorer σάς επιτρέπει να ανοίξετε αρχεία registry (όπως `NTUSER.DAT` ή `SOFTWARE`) ως αντίγραφα, χωρίς να αγγίξετε το αρχικό σύστημα. Μπορεί επίσης να κάνει αναζήτηση σε όλα τα κλειδιά και να δείχνει συσχετίσεις — ιδιαίτερα χρήσιμο όταν ψάχνετε ένα συγκεκριμένο artifact μέσα σε εκατομμύρια καταχωρήσεις.
 
