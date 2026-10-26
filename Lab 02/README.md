@@ -53,7 +53,7 @@ The contents of the `NTUSER.DAT` file can be accessed using Registry Explorer by
 
 ![registry-explorer](files/images/registry-explorer.png)
 
-The tool can be downloaded from [https://f001.backblazeb2.com/file/EricZimmermanTools/net6/RegistryExplorer.zip](https://f001.backblazeb2.com/file/EricZimmermanTools/net6/RegistryExplorer.zip).
+The tool can be downloaded from [[https://f001.backblazeb2.com/file/EricZimmermanTools/net6/RegistryExplorer.zip](https://f001.backblazeb2.com/file/EricZimmermanTools/net6/RegistryExplorer.zip)](https://ericzimmerman.github.io/#forensic-tools).
 
 # LNK Files
 
