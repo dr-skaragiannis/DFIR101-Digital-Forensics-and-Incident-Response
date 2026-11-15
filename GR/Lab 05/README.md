@@ -1,4 +1,4 @@
-# Κακοβούλια Επικοινωνία & Ανάλυση Κίνησης Δικτύου (Network Traffic Forensics)
+# Κακόβουλη Επικοινωνία & Ανάλυση Κίνησης Δικτύου (Network Traffic Forensics)
 
 > 🇬🇷 Ελληνική έκδοση του [Lab 05 — Network Traffic Forensics](../../Lab%2005/README.md)
 
