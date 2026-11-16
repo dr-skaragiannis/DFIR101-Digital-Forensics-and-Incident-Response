@@ -15,7 +15,9 @@ Setting up a controlled lab environment is essential for safe analysis. Working 
 ### Clone the repository
 
 ```
-git clone https://github.com/vonderchild/digital-forensics-lab && cd digital-forensics-lab/Lab\ 4/files/app
+git clone https://github.com/vonderchild/digital-forensics-lab
+and then
+cd digital-forensics-lab/Lab\ 4/files/app
 ```
 
 ### Install Docker
