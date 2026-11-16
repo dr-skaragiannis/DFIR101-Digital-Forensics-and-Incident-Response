@@ -30,7 +30,7 @@ sudo service docker start
 
 ### Build & Run Docker Image
 
-1. Navigate to the files you cloned in Lab 04 and locate the `app` folder, which contains the `Dockerfile` we are going to build.
+1. Navigate to the files you cloned in Lab 04 and locate the `app` folder, which contains the `Dockerfile` (DFIR101-Digital-Forensics-and-Incident-Response/Lab 04/files /app/) we are going to build. 
 2. Open the `Dockerfile` and change the Ubuntu version to **22.04**:
    ```dockerfile
    FROM ubuntu:22.04
