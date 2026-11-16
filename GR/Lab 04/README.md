@@ -29,16 +29,21 @@ sudo service docker start
 ```
 
 ### Χτίσιμο και εκκίνηση εικόνας Docker
+Μεταβείτε στα αρχεία που κάνατε clone στο εργαστήριο 04 και εκεί βρειτε τον φάκελο app όπου μέσα θα είναι το DOCKERFILE που θα κάνουμε build.
+Αλλάξτε στο DOCKERFILE το version του Ubuntu σε 22.04
+Αλλιώς θα σας βγάλει το error (=> ERROR [9/9] RUN service mysql start && mysql -e "source database.sql") - Αλλάξτε στο dockerfile το version του Ubuntu σε 22.04
+
+```
+FROM ubuntu:22.04
+```
 
 ```
 docker build -t app:latest .
 docker run -p 9090:80 app:latest
 ```
-Σε περίπτωση σφάλματος (=> ERROR [9/9] RUN service mysql start && mysql -e "source database.sql") - Αλλάξτε στο dockerfile το version του Ubuntu σε 22.04
 
-```
-FROM ubuntu:22.04
-```
+
+
 
 # Επιθέσεις Web & Forensics
 
