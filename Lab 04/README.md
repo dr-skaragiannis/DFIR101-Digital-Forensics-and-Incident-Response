@@ -36,7 +36,7 @@ sudo service docker start
 2. Open the `Dockerfile` and change the Ubuntu version to **22.04**:
    ```dockerfile
    FROM ubuntu:22.04
-
+```
 docker build -t app:latest .
 docker run -p 9090:80 app:latest
 ```
