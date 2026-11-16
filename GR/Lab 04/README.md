@@ -34,6 +34,11 @@ sudo service docker start
 docker build -t app:latest .
 docker run -p 9090:80 app:latest
 ```
+Σε περίπτωση σφάλματος - Αλλάξτε στο dockerfile το version του Ubuntu σε 22.04
+
+```
+FROM ubuntu:22.04
+```
 
 # Επιθέσεις Web & Forensics
 
