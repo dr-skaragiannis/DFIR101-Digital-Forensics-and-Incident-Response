@@ -19,7 +19,7 @@ git clone https://github.com/vonderchild/digital-forensics-lab
 and then
 cd digital-forensics-lab/Lab\ 4/files/app
 ```
-```
+
 ### Install Docker
 
 ```
