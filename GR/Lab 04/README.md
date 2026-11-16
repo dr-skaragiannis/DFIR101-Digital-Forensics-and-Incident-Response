@@ -34,7 +34,7 @@ sudo service docker start
 docker build -t app:latest .
 docker run -p 9090:80 app:latest
 ```
-Σε περίπτωση σφάλματος - Αλλάξτε στο dockerfile το version του Ubuntu σε 22.04
+Σε περίπτωση σφάλματος (=> ERROR [9/9] RUN service mysql start && mysql -e "source database.sql") - Αλλάξτε στο dockerfile το version του Ubuntu σε 22.04
 
 ```
 FROM ubuntu:22.04
